@@ -1,4 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![20240813_232217(162)](https://github.com/user-attachments/assets/aea4cc95-cf37-4aac-b23a-9c19761cb872)
+
+
+# Usage template
+
+```bash
+npx create-next-app -e https://github.com/Jezebel1990/boilerplate
+```
 
 ## Getting Started
 
